@@ -1,13 +1,12 @@
 # Natural Eval: Natural Language AI Evaluation
 
-The aim of `naturaleval` is to allow a controlled natural language (CNL) to define
-an executable and reproducible AI evaluation in as precise a manner as code and
-as expressive a manner as natural language.
+Natural Eval uses controlled natural language to define a single YAML file, `eval.yaml`, that
+represents an executable AI evaluation workflow.
 
 Potential usage:
 
-- drive a SWE agent's loop to optimize a LLM prompt with your natural language changes to your `eval-spec.yaml`
-- elicit a human SME (subject matter expert) requirements through chat session with a SWE agent on the composition of an `eval-spec.yaml`.
+- build prompt optimization workflows grounded by an expressive and precise `eval-spec.yaml`
+- elicit AI product engineering requirements from customers through a chat session constrained by the grammar of `eval-spec.yaml`.
 
 ## Current Highlights
 
