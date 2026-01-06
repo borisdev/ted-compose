@@ -13,7 +13,7 @@ The proposed solution is to use a controlled natural language to capture the exp
 of all existing major evaluation software engineering tooling, without loosing precision.
 
 
-## AI Evaluation Data Model
+## Model
 
 
 An AI evaluation has three parts.
