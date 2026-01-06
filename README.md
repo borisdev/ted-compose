@@ -18,9 +18,9 @@ of all existing major evaluation software engineering tooling, without loosing p
 
 An AI evaluation has three parts.
 
-1. Problem space - What do we show the AI builder, what raw discovery data?
-2. Solution space - The interface contract: e.g., JSON-in / JSON-out REST endpoint
-3) Evaluation space - Reproducible rules for measuring "good behavior" 
+- Problem space: What do we show the AI builder, what raw discovery data?
+- Solution space: The interface contract: e.g., JSON-in / JSON-out REST endpoint
+- Evaluation space: Reproducible rules for measuring "good behavior" 
 
 
 ## Current Highlights
